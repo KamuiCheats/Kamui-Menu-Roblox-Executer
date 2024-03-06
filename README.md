@@ -3,7 +3,7 @@ You can download the menu [Here](https://www.mediafire.com/file/wgc04jsvsutkb59/
 
 
 # HOW TO USE 📜
-
+### ⚠️ RUN AS ADMISTRATOR TO WORK
 1. Open Roblox
 2. Join a game
 3. Execute Kamui Loader
